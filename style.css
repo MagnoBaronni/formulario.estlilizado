@@ -57,6 +57,7 @@ input.submit{
 	width: 80%;
 	text-align: center;
 	background: linear-gradient(to bottom,#faa600, #f68a00) ;
+	cursor: pointer;
 
 }
 
